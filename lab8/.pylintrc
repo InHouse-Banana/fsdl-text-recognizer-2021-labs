@@ -13,7 +13,11 @@ disable=
   fixme,
   missing-function-docstring,
   missing-module-docstring,
-  too-few-public-methods
+  too-few-public-methods,
+  W0611,
+  C0301,
+  C0304
+
 
 [FORMAT]
 max-line-length = 120
